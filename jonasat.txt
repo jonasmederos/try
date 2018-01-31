@@ -1,3 +1,7 @@
 update
 update2
+<<<<<<< HEAD
 update4
+=======
+update3
+>>>>>>> bfb31fcd0231bbec82a8a7a32ab00054cef8602f
